@@ -1,0 +1,55 @@
+APPOINTMENT SCHEDULING POLICY FOR ONCOLOGY SERVICES
+======================================================
+Document ID: DOC-006
+Last Updated: January 2024
+Category: Administrative Policy
+
+1. SCHEDULING NEW PATIENT APPOINTMENTS
+New patient appointments for oncology services can be scheduled by:
+- Physician referral: The referring physician's office can directly schedule through the referral coordinator.
+- Patient self-scheduling: Patients can call the oncology scheduling line at (555) 123-4567, Monday through Friday, 8 AM to 5 PM.
+- Online scheduling: Available through the patient portal for select appointment types.
+New patient appointments typically require:
+- A referral from the primary care physician or specialist.
+- Copies of relevant medical records, imaging, and pathology reports.
+- Insurance pre-authorization (staff will assist with this process).
+New patients should allow 2-3 hours for their initial consultation, which includes a comprehensive medical history review, physical examination, and discussion of the treatment plan.
+
+2. APPOINTMENT TYPES AND AVAILABILITY
+The oncology department offers the following appointment types:
+- Initial consultation: Available within 5-7 business days for non-urgent cases, and within 24-48 hours for urgent referrals.
+- Follow-up visits: Scheduled based on treatment protocol, typically every 2-4 weeks during active treatment.
+- Chemotherapy infusion appointments: Scheduled according to the treatment cycle.
+- Radiation therapy appointments: Daily sessions scheduled Monday through Friday during the treatment course.
+- Survivorship visits: Scheduled every 3-6 months post-treatment.
+- Second opinion consultations: Available within 7-10 business days.
+
+3. DEPARTMENT-SPECIFIC SCHEDULING
+Available oncology departments and their scheduling details:
+- Medical Oncology: Mon-Fri, 8 AM - 5 PM. New patients within 5-7 days.
+- Surgical Oncology: Mon-Fri, 8 AM - 4 PM. Consultations within 3-5 days for urgent cases.
+- Radiation Oncology: Mon-Fri, 7 AM - 5 PM. Treatment planning within 5-7 days of consultation.
+- Hematology/Oncology: Mon-Fri, 8 AM - 5 PM. Urgent referrals within 48 hours.
+- Oncology Genetics: Mon-Thu, 9 AM - 4 PM. Appointments within 2-3 weeks.
+- Palliative Care: Mon-Fri, 8 AM - 4 PM. Urgent consultations within 24-48 hours.
+- Oncology Nutrition: Mon-Fri, 9 AM - 3 PM. Appointments within 1-2 weeks.
+- Psycho-Oncology: Mon-Fri, 9 AM - 4 PM. Appointments within 1-2 weeks.
+
+4. CANCELLATION AND RESCHEDULING POLICY
+- Patients should provide at least 24 hours notice for cancellations or rescheduling.
+- Cancellations can be made through the patient portal, by phone, or through secure messaging.
+- Missed appointments without notice may result in a rescheduling delay.
+- Three consecutive missed appointments without notice may require a re-referral.
+- Chemotherapy infusion appointments require 48 hours notice for cancellation to allow medication preparation adjustments.
+
+5. URGENT AND SAME-DAY APPOINTMENTS
+- Cancer patients experiencing acute symptoms can request same-day urgent appointments.
+- The oncology triage nurse is available during business hours for symptom assessment.
+- After-hours urgent concerns should be directed to the oncology on-call service at (555) 123-4599.
+- For life-threatening emergencies, patients should call 911 or go to the nearest emergency room.
+
+6. APPOINTMENT REMINDERS
+- Automated appointment reminders are sent via text, email, and phone call.
+- Text reminders are sent 3 days and 1 day before the appointment.
+- Patients can confirm or reschedule through the reminder notification.
+- Interpreter services are available for non-English speaking patients. Please request at the time of scheduling.

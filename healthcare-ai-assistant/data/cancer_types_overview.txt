@@ -1,0 +1,26 @@
+CANCER TYPES OVERVIEW AND GENERAL INFORMATION
+==============================================
+Document ID: DOC-001
+Last Updated: January 2024
+Category: Patient Education
+
+1. BREAST CANCER
+Breast cancer is the most common cancer among women worldwide. It develops in the breast tissue, usually in the ducts or lobules. Early detection through mammography screening significantly improves survival rates. The 5-year relative survival rate for localized breast cancer is 99%. Common symptoms include a lump in the breast, change in breast shape, dimpling of the skin, fluid from the nipple, or a red scaly patch of skin. Risk factors include age, family history, BRCA1/BRCA2 gene mutations, obesity, and hormone replacement therapy.
+
+2. LUNG CANCER
+Lung cancer is the leading cause of cancer death worldwide. It is primarily caused by smoking, which accounts for approximately 85% of cases. There are two main types: Non-Small Cell Lung Cancer (NSCLC), which accounts for about 85% of cases, and Small Cell Lung Cancer (SCLC), accounting for about 15%. Symptoms often do not appear until the disease is advanced and may include persistent cough, coughing up blood, chest pain, hoarseness, weight loss, and shortness of breath. The 5-year survival rate for localized lung cancer is 63%, but only 7% for distant-stage disease.
+
+3. COLORECTAL CANCER
+Colorectal cancer affects the colon or rectum. It is the third most common cancer in both men and women. Screening through colonoscopy can detect precancerous polyps before they become cancerous. Symptoms include changes in bowel habits, rectal bleeding, persistent abdominal discomfort, weakness, and unexplained weight loss. Risk factors include age over 50, inflammatory bowel disease, family history, low-fiber diet, sedentary lifestyle, obesity, smoking, and heavy alcohol use. The 5-year survival rate for localized colorectal cancer is 91%.
+
+4. PROSTATE CANCER
+Prostate cancer is the most common cancer in men. It develops in the prostate gland, which produces seminal fluid. Many prostate cancers grow slowly and may not need treatment. However, some types are aggressive. Screening involves PSA (Prostate-Specific Antigen) blood tests and digital rectal exams. Symptoms may include difficulty urinating, decreased force in urine stream, blood in urine, bone pain, and erectile dysfunction. Risk factors include age over 50, African American race, family history, and obesity.
+
+5. SKIN CANCER (MELANOMA)
+Melanoma is the most dangerous type of skin cancer. It develops from melanocytes, the cells that give skin its color. UV radiation from the sun and tanning beds is the primary risk factor. The ABCDE rule for identifying melanoma: Asymmetry, Border irregularity, Color variation, Diameter larger than 6mm, and Evolving shape or size. Early-stage melanoma has a 5-year survival rate of 99% when detected early. Prevention includes sun protection, avoiding tanning beds, and regular skin checks.
+
+6. PANCREATIC CANCER
+Pancreatic cancer begins in the tissues of the pancreas. It is often diagnosed late because symptoms typically do not appear until the disease is advanced. Symptoms include jaundice, weight loss, abdominal pain, new-onset diabetes, blood clots, and fatigue. Risk factors include smoking, chronic pancreatitis, diabetes, family history, and obesity. The overall 5-year survival rate is approximately 12%. Treatment options depend on the stage and may include surgery, chemotherapy, radiation therapy, or a combination.
+
+7. LEUKEMIA
+Leukemia is cancer of the blood-forming tissues, including bone marrow. There are four main types: Acute Lymphoblastic Leukemia (ALL), Acute Myeloid Leukemia (AML), Chronic Lymphocytic Leukemia (CLL), and Chronic Myeloid Leukemia (CML). Symptoms include fatigue, frequent infections, easy bleeding or bruising, weight loss, swollen lymph nodes, and bone pain. Treatment varies by type and may include chemotherapy, radiation therapy, targeted therapy, immunotherapy, or stem cell transplant.

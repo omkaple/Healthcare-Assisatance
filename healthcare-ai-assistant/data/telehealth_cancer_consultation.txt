@@ -1,0 +1,58 @@
+TELEHEALTH CONSULTATION GUIDELINES FOR CANCER PATIENTS
+=========================================================
+Document ID: DOC-005
+Last Updated: January 2024
+Category: Telehealth Services
+
+1. OVERVIEW OF TELEHEALTH SERVICES
+Telehealth provides cancer patients with remote access to their healthcare team through video calls, phone calls, and secure messaging. Telehealth is available for:
+- Follow-up consultations after treatment.
+- Symptom management and triage.
+- Medication refill requests and prescription management.
+- Discussion of lab results and imaging reports.
+- Nutritional counseling and psychosocial support.
+- Second opinions on diagnosis or treatment plans.
+- Pre-treatment education and preparation.
+Telehealth visits do not replace all in-person visits. Physical examinations, biopsies, imaging studies, chemotherapy infusions, radiation therapy, and surgical procedures require in-person attendance.
+
+2. SCHEDULING A TELEHEALTH APPOINTMENT
+Patients can schedule telehealth appointments through:
+- The patient portal (available 24/7).
+- Calling the oncology clinic during business hours (Mon-Fri, 8 AM - 5 PM).
+- Requesting through the secure messaging system.
+Telehealth appointments are typically available within 2-3 business days. Urgent symptom consultations may be available same-day. Patients should have their medication list, recent lab results, and a list of questions ready before the appointment.
+
+3. MEDICATION REFILL THROUGH TELEHEALTH
+Patients can request medication refills through telehealth consultations if:
+- The medication is already prescribed and part of the current treatment plan.
+- The medication does not require an in-person evaluation or physical examination.
+- The patient has had a recent follow-up visit (within the past 3-6 months depending on the medication).
+Controlled substances and certain high-risk medications may require an in-person visit for refill. Anti-nausea medications, pain management refills (non-opioid), hormone therapy medications, and supportive care medications can typically be refilled via telehealth.
+
+4. WHEN TO SEEK IN-PERSON OR EMERGENCY CARE
+Cancer patients should seek immediate in-person care or go to the emergency room if experiencing:
+- Fever of 100.4°F (38°C) or higher, especially during chemotherapy (neutropenic fever risk).
+- Severe bleeding or uncontrolled bleeding.
+- Sudden severe chest pain or difficulty breathing.
+- Signs of blood clot: sudden leg swelling, pain, or redness.
+- Severe allergic reaction to medication.
+- Confusion, seizures, or loss of consciousness.
+- Severe dehydration with inability to keep fluids down for 24+ hours.
+- New onset of severe pain not controlled by prescribed medications.
+Do not delay seeking emergency care. Call 911 or go to the nearest emergency room for life-threatening symptoms.
+
+5. INSURANCE AND TELEHEALTH COVERAGE
+Most insurance plans now cover telehealth visits for cancer care, including:
+- Medicare and Medicaid cover telehealth visits for oncology care.
+- Private insurance plans generally cover telehealth at the same rate as in-person visits.
+- Copays for telehealth visits are typically the same as in-person visit copays.
+- Some insurance plans may waive copays for telehealth visits. Check with your insurance provider.
+- Financial assistance may be available for patients without adequate telehealth coverage.
+
+6. TECHNOLOGY REQUIREMENTS FOR TELEHEALTH
+To participate in a telehealth visit, patients need:
+- A smartphone, tablet, or computer with a camera and microphone.
+- A stable internet connection.
+- A quiet, private space for the consultation.
+- The clinic's telehealth app or platform (available for download from the patient portal).
+Technical support is available by calling the IT help desk at the clinic during business hours.

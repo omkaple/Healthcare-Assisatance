@@ -1,0 +1,60 @@
+CANCER PREVENTION AND SCREENING GUIDELINES
+=============================================
+Document ID: DOC-003
+Last Updated: January 2024
+Category: Preventive Care
+
+1. GENERAL CANCER PREVENTION STRATEGIES
+Cancer prevention involves lifestyle modifications that can significantly reduce cancer risk:
+- Avoid tobacco: Smoking is linked to lung, throat, mouth, pancreatic, bladder, kidney, and cervical cancers. Quitting smoking at any age reduces cancer risk.
+- Maintain a healthy diet: Eat plenty of fruits, vegetables, and whole grains. Limit processed meats, red meats, and highly processed foods. The Mediterranean diet has been associated with reduced cancer risk.
+- Exercise regularly: Aim for at least 150 minutes of moderate aerobic activity or 75 minutes of vigorous activity per week. Regular physical activity reduces the risk of breast, colon, and several other cancers.
+- Maintain a healthy weight: Obesity increases the risk of many cancers including breast, colon, kidney, and pancreatic cancer.
+- Limit alcohol consumption: Alcohol increases the risk of breast, liver, colon, and esophageal cancers. If you drink, limit to no more than one drink per day for women and two for men.
+- Protect yourself from the sun: Use SPF 30+ sunscreen, wear protective clothing, avoid midday sun, and never use tanning beds.
+- Get vaccinated: HPV vaccine prevents cervical, throat, and other cancers. Hepatitis B vaccine reduces liver cancer risk.
+- Avoid risky behaviors: Practice safe sex and do not share needles to reduce risk of infections that can increase cancer risk.
+
+2. BREAST CANCER SCREENING
+- Women aged 40-44: Optional annual mammogram.
+- Women aged 45-54: Annual mammogram recommended.
+- Women aged 55 and older: Mammogram every 1-2 years, or continue annual screening.
+- High-risk women (BRCA mutation carriers, family history): MRI in addition to mammogram, starting at age 30. Genetic counseling is recommended for those with strong family history.
+- Monthly breast self-exams are encouraged to help detect changes early, though they are not a substitute for clinical screening.
+
+3. COLORECTAL CANCER SCREENING
+- Adults aged 45-75: Regular screening recommended.
+- Screening options include:
+  a) Colonoscopy every 10 years (gold standard).
+  b) FIT (Fecal Immunochemical Test) annually.
+  c) Stool DNA test (Cologuard) every 3 years.
+  d) CT colonography every 5 years.
+  e) Flexible sigmoidoscopy every 5 years.
+- Adults aged 76-85: Screening decision should be individualized based on health status and prior screening history.
+- High-risk individuals (family history, inflammatory bowel disease) should begin screening earlier and more frequently.
+
+4. LUNG CANCER SCREENING
+- Annual low-dose CT scan recommended for:
+  a) Adults aged 50-80 years.
+  b) Those with a 20 pack-year smoking history.
+  c) Current smokers or those who quit within the past 15 years.
+- Screening should be discontinued once a person has not smoked for 15 years or develops a health problem that limits life expectancy.
+
+5. CERVICAL CANCER SCREENING
+- Women aged 21-29: Pap test every 3 years.
+- Women aged 30-65: Pap test plus HPV test (co-testing) every 5 years, or Pap test alone every 3 years.
+- Women over 65: Screening may be stopped if prior results were normal.
+- HPV vaccination is recommended for all individuals aged 9-26, with catch-up vaccination available up to age 45.
+
+6. PROSTATE CANCER SCREENING
+- Men aged 50 and older (average risk): Discuss PSA testing with healthcare provider.
+- Men at higher risk (African American, family history): Discussion should begin at age 40-45.
+- PSA testing should be an informed, shared decision between patient and provider, weighing benefits of early detection against risks of overdiagnosis and overtreatment.
+
+7. SKIN CANCER PREVENTION AND DETECTION
+- Monthly self-skin exams using the ABCDE rule for melanoma detection.
+- Annual clinical skin exams for high-risk individuals.
+- Wear SPF 30+ broad-spectrum sunscreen daily.
+- Seek shade during peak UV hours (10 AM to 4 PM).
+- Wear protective clothing, including wide-brimmed hats and UV-blocking sunglasses.
+- Report any new, changing, or unusual skin lesions to a dermatologist promptly.

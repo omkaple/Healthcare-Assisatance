@@ -1,0 +1,60 @@
+CANCER TREATMENT GUIDELINES AND OPTIONS
+========================================
+Document ID: DOC-002
+Last Updated: January 2024
+Category: Clinical Guidelines
+
+1. SURGERY
+Surgery is often the first line of treatment for solid tumors. The goal is to remove the cancerous tissue along with a margin of healthy tissue. Types of cancer surgery include:
+- Curative surgery: Removes the entire tumor when cancer is localized.
+- Debulking surgery: Removes as much of the tumor as possible when complete removal is not feasible.
+- Preventive (prophylactic) surgery: Removes tissue that is likely to become cancerous, such as prophylactic mastectomy for high-risk BRCA mutation carriers.
+- Diagnostic surgery (biopsy): Removes a tissue sample for laboratory analysis.
+- Staging surgery: Determines the extent of cancer spread.
+Recovery time varies depending on the type of surgery. Patients should follow post-operative instructions carefully, including wound care, activity restrictions, and follow-up appointments.
+
+2. CHEMOTHERAPY
+Chemotherapy uses drugs to kill cancer cells or stop them from growing. It can be administered orally, intravenously, or through injection. Chemotherapy is used for:
+- Primary treatment to destroy cancer cells.
+- Adjuvant therapy after surgery to kill remaining cancer cells.
+- Neoadjuvant therapy before surgery to shrink tumors.
+- Palliative care to reduce symptoms in advanced cancer.
+Common side effects include nausea, vomiting, hair loss, fatigue, increased infection risk, mouth sores, and changes in appetite. Side effects are usually temporary and manageable with supportive medications. Patients should report any fever above 100.4°F (38°C) immediately, as this may indicate neutropenic fever, a potentially life-threatening condition.
+
+3. RADIATION THERAPY
+Radiation therapy uses high-energy rays or particles to destroy cancer cells. Types include:
+- External beam radiation: Delivered from outside the body using a machine.
+- Internal radiation (brachytherapy): Radioactive material placed inside the body near the cancer.
+- Systemic radiation: Radioactive substances given orally or through IV that travel through the blood.
+Side effects depend on the treatment area and may include skin changes, fatigue, and site-specific effects. Modern techniques like IMRT (Intensity-Modulated Radiation Therapy) and proton therapy help minimize damage to surrounding healthy tissue.
+
+4. IMMUNOTHERAPY
+Immunotherapy helps the immune system fight cancer. Types include:
+- Checkpoint inhibitors: Drugs like pembrolizumab (Keytruda) and nivolumab (Opdivo) that help T-cells recognize and attack cancer cells.
+- CAR T-cell therapy: Modifying a patient's T-cells to attack cancer cells.
+- Monoclonal antibodies: Lab-made proteins that target specific parts of cancer cells.
+- Cancer vaccines: Stimulate the immune system to attack cancer cells.
+Side effects may include fatigue, skin reactions, flu-like symptoms, and autoimmune reactions. Immunotherapy has shown remarkable results in melanoma, lung cancer, and certain blood cancers.
+
+5. TARGETED THERAPY
+Targeted therapy uses drugs that target specific genes, proteins, or the tissue environment that contributes to cancer growth. Examples include:
+- HER2-targeted therapy (trastuzumab/Herceptin) for HER2-positive breast cancer.
+- EGFR inhibitors for certain lung cancers.
+- BRAF inhibitors for melanoma with BRAF mutations.
+- CDK4/6 inhibitors for hormone receptor-positive breast cancer.
+Unlike chemotherapy, targeted therapy specifically attacks cancer cells while sparing most normal cells, generally resulting in fewer side effects.
+
+6. HORMONE THERAPY
+Hormone therapy is used for cancers that are hormone-sensitive, such as certain breast and prostate cancers. It works by:
+- Blocking the body's ability to produce hormones.
+- Interfering with how hormones behave in the body.
+Common drugs include tamoxifen and aromatase inhibitors for breast cancer, and androgen deprivation therapy for prostate cancer. Side effects may include hot flashes, bone thinning, fatigue, and mood changes.
+
+7. STEM CELL TRANSPLANT
+Stem cell transplant replaces bone marrow that has been destroyed by cancer treatment. Types include:
+- Autologous transplant: Using the patient's own stem cells.
+- Allogeneic transplant: Using stem cells from a donor.
+This treatment is commonly used for leukemia, lymphoma, and multiple myeloma. The procedure involves high-dose chemotherapy followed by infusion of stem cells to restore blood cell production.
+
+8. PALLIATIVE CARE
+Palliative care focuses on providing relief from symptoms and improving quality of life for patients with serious illness. It is appropriate at any stage of cancer and can be provided alongside curative treatment. Services include pain management, symptom control, emotional support, nutritional counseling, and coordination of care. Patients should not hesitate to discuss palliative care options with their oncology team.
